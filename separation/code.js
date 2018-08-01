@@ -1,1 +1,1 @@
-// Add your alert() here!
+alert("// Add your alert() here!")
